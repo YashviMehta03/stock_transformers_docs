@@ -77,9 +77,9 @@ extra:
 # Custom footer
 extra:
   copyright: "Copyright &copy; 2024 Your Name"
-  social:
-    - icon: fontawesome/brands/github
-      link: "https://github.com/yourusername"
+  # social:
+  #   - icon: fontawesome/brands/github
+  #     link: "https://github.com/yourusername"
 
 # Use MkDocs' built-in TOC for each page, with sections in the sidebar
 markdown_extensions:
